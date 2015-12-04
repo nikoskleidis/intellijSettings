@@ -1,0 +1,30 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="app" />
+    <option name="defaultScopeName" value="app" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="app" />
+    <option name="FILE_MASK" value="*.less" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>index.js</mask>
+      <mask>*.js, *.stache</mask>
+      <mask>*.js, *.stache, *.css</mask>
+      <mask>*.js, *.stache, *.less</mask>
+      <mask>*.js, *.stache, *.less, *.java</mask>
+      <mask>*.java</mask>
+      <mask>*.stache</mask>
+      <mask>*.less</mask>
+    </recentFileMasks>
+  </component>
+</application>
