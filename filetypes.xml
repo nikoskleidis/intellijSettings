@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="stache" type="Handlebars/Mustache" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
