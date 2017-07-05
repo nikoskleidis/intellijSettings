@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Android/sdk/tools" />
     </exec>
   </tool>
+  <tool name="Redux Tools" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+      <option name="PARAMETERS" value="--profile-directory=Default --app-id=faicmgpfiaijcedapokpbdejaodbelph" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/Google/Chrome/Application" />
+    </exec>
+  </tool>
 </toolSet>
