@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\nikos\AppData\Local\Android\sdk\tools\emulator.exe" />
       <option name="PARAMETERS" value="-avd Nexus_5_react -port 5555" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Android/sdk/tools" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/nikos/AppData/Local/Android/sdk/tools" />
     </exec>
   </tool>
   <tool name="Redux Tools" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
