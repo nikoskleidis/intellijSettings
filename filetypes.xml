@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ticket_2_at_q_answer.json" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="manifest" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
