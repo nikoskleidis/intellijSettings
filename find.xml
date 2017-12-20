@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="SmsLike" />
-    <option name="defaultScopeName" value="SmsLike" />
-    <option name="SEARCH_SCOPE" value="SmsLike" />
+    <option name="customScope" value="bitsrn" />
+    <option name="defaultScopeName" value="bitsrn" />
+    <option name="SEARCH_SCOPE" value="bitsrn" />
   </component>
 </application>
