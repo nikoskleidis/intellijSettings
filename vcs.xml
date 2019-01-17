@@ -50,12 +50,69 @@
           <option name="url" value="https://github.com/gdagalakis/RemoteControl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nikoskleidis/intellijSettings.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/GoingUp/gup-backoffice-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/Logicea-JS/xhr-helpers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://nikoskleidis@bitbucket.org/firillas/getproperty-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/Logicea-JS/redux-crud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shoutem/school.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/n.kleidis/smslikeapp-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/swkBerlin/kata-bootstraps.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/GoingUp/smslikeapp-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/joshswan/react-native-globalize.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/n.kleidis/lerna-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/GoingUp/loyalty/windflames.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/n.kleidis/loyalty_backoffice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.logicea.net/gdagalakis/proj-stmts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jmike/nextjs-talk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\nikos\projects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="$USER_HOME$/logicea/test" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
