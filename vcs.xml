@@ -110,9 +110,13 @@
           <option name="url" value="https://github.com/jmike/nextjs-talk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nikoskleidis/nikos-gallop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\nikos\logicea" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
