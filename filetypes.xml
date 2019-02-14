@@ -1,14 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ticket_2_at_q_answer.json" type="PLAIN_TEXT" />
       <mapping pattern="gtm_pv7nkbz" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="pbxproj" type="PLAIN_TEXT" />
-      <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="manifest" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
