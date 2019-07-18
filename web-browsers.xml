@@ -1,5 +1,5 @@
 <application>
-  <component name="WebBrowsersConfiguration">
+  <component name="WebBrowsersConfiguration" default="first">
     <browser id="b9ea5d08-5e5b-479d-b438-1ae1832b6aef" name="Brave" family="CHROME" path="/Applications/Brave Browser.app" />
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" />
     <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
