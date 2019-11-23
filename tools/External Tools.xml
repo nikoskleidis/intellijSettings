@@ -6,11 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Emulator Start" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Emulator Start" description="emulator -avd Pixel_2_API_28" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Users\nikos\AppData\Local\Android\sdk\tools\emulator.exe" />
-      <option name="PARAMETERS" value="-avd Nexus_5_react -port 5555" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/nikos/AppData/Local/Android/sdk/tools" />
+      <option name="COMMAND" value="emulator" />
+      <option name="PARAMETERS" value="-avd Pixel_2_API_28" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Redux Tools" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
