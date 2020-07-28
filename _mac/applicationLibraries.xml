@@ -24,6 +24,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/react-router" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/redux-actions" type="javaScript">
       <CLASSES />
       <SOURCES />
