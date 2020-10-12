@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ttf" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="i18n_auto_list" type="PLAIN_TEXT" />
       <mapping pattern=".yarnclean" type="PLAIN_TEXT" />
       <mapping pattern="gtm_pv7nkbz" type="PLAIN_TEXT" />
       <mapping pattern="ticket_2_at_q_answer.json" type="PLAIN_TEXT" />
