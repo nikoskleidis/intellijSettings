@@ -166,9 +166,17 @@
           <option name="url" value="https://git.logicea.net/n.kleidis/test_mr_descriptions.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/fairlo/fairlo-web-site.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="nikos.kleidis@fairlo.se" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/logicea/test" />
+    <option name="cloneParentDir" value="$USER_HOME$/fairlo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
