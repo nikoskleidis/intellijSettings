@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="restaurant.json" type="AUTO_DETECTED" />
       <mapping ext="ttf" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="i18n_auto_list" type="PLAIN_TEXT" />
